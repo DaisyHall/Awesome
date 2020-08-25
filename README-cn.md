@@ -329,6 +329,7 @@
 - [Open Broadcaster Software](https://obsproject.com/) - 免费开源的视频录制和流媒体播放软件。 [![Open-Source Software][OSS Icon]](https://github.com/jp9000/OBS)
 - [PotPlayer](http://potplayer.daum.net/) - 多媒体播放器，具有广泛的编解码器集合，它还为用户提供大量配置选项。
 - [ScreenToGif](http://www.screentogif.com/) - 它允许你录制屏幕的一部分区域并保存为 gif 或视频。 [![Open-Source Software][OSS Icon]](https://github.com/NickeManarin/ScreenToGif/) ![Freeware][Freeware Icon]
+- [Gihosoft Free Video Cutter](https://www.gihosoft.com/free-video-cutter.html) - 免费、易用的无损视频音频截取器，快速输出，无广告无水印。
 - [SMPlayer](https://sourceforge.net/projects/smplayer/) - 多媒体播放器，可针对不同视频保存不同的配置。 [![Open-Source Software][OSS Icon]](https://sourceforge.net/p/smplayer/code/HEAD/tree/) ![Freeware][Freeware Icon]
 - [VLC](http://www.videolan.org/vlc/index.html) - 多媒体播放器和框架，用于播放DVD，音频CD，VCD和各种流协议。 [![Open-Source Software][OSS Icon]](https://github.com/videolan/vlc)
 
